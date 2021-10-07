@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "376128675978",
+    "firebase_url": "https://socialappabdallah-default-rtdb.firebaseio.com",
+    "project_id": "socialappabdallah",
+    "storage_bucket": "socialappabdallah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376128675978:android:ceb4c5dbaa080695e4cd73",
+        "android_client_info": {
+          "package_name": "com.example.firebaseabdallahmansour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376128675978-q24q8fuujg64f12vkt679r7geof6pvq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo64lErqKRfbePj_wz5FcBX3uziihXsEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376128675978-q24q8fuujg64f12vkt679r7geof6pvq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
